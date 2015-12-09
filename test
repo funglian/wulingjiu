@@ -1,0 +1,3 @@
+int main(){
+  NSLog(@"ok!");
+}
